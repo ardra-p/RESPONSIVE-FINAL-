@@ -1326,6 +1326,7 @@ border: none;
     }
 
     .sbox p {
+        margin-left:12px;
         font-size: 14px; 
         line-height: 20px; 
     }
